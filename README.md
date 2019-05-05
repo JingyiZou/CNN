@@ -1,8 +1,2 @@
 # CNN
-//***************************************
-             Author: Jane
-             Time: 2019/05/01
-             Brief: Simple CNN
-//***************************************
-
-本程序可直接在Visual Studio 2013上运行，所有环境都已配置好。
+A simple CNN implemented by C++.
